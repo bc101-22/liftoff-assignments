@@ -7,12 +7,32 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+An app that allows users to find information and share their experience about trails they hiked.
 ### Features
-Include Features here
+User login: 
+		Users can create accounts and log in.
+		Each user will have a profile page.
+		Logging in grants the access of search, tagging, posting information and posting comments.
+		
+	Delete post / delete user:
+		Users can delete their own posts, or their entire account.
+	
+	Post comment:
+		Users can post comment about any posts.
+	
+	Post trail information:
+		Users will be able to post information about trails they hiked after logging in.
+    
 ### Technologies
-Include Technologies here
+  JavaScript
+	Angular / Thymeleaf?
+	Java
+	SpringBoot
+	MySQL
+  
 ### What I'll Have to Learn
-Include what you will need to learn here
+  1. Managing different access levels
+  2. Finding and using APIs, parsing JSON response
+
 ### Project Tracker
-Link to your Trello board here
+  https://trello.com/b/HznQZLy9/discover-mo-trails
